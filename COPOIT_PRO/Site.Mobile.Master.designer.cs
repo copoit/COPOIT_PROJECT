@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace COPOIT_PRO {
+namespace CoPOIT {
     
     
     public partial class Site_Mobile {
