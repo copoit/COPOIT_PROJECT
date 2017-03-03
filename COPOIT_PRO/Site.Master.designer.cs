@@ -7,31 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace COPOIT_PRO
-{
-
-
-    public partial class SiteMaster
-    {
-
-        /// <summary>
-        /// HeadContent control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.ContentPlaceHolder HeadContent;
-
-        /// <summary>
-        /// FeaturedContent control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.ContentPlaceHolder FeaturedContent;
-
+namespace CoPOIT {
+    
+    
+    public partial class SiteMaster {
+        
         /// <summary>
         /// MainContent control.
         /// </summary>
@@ -40,5 +20,14 @@ namespace COPOIT_PRO
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.ContentPlaceHolder MainContent;
+        
+        /// <summary>
+        /// TableContent control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ContentPlaceHolder TableContent;
     }
 }
